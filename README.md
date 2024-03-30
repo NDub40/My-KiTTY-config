@@ -1,2 +1,2 @@
-# My KiTTY config
+# My kiTTY config
 My kiTTY configuration 
