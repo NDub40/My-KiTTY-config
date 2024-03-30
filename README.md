@@ -1,2 +1,2 @@
 # My KiTTY config
- Read Name
+My kiTTY configuration 
