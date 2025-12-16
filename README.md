@@ -1,3 +1,4 @@
 # My kiTTY config
-My kiTTY configuration 
+My KiTTY configuration.
+
 My favorite terminal.
